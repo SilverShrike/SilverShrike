@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @SilverShrike
-- 👀 I’m interested in cyber assessments, red teaming, clandestine cyber operations
-- 🌱 I’m currently learning OSCP, CEH, THM
-- 💞️ I’m looking to collaborate on notes for CTFs
-- 📫 How to reach me - figure it out
-
-<!---
-SilverShrike/SilverShrike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+U2Vjb25kIHRpbWUgYXQgTUMsIHRha2luZyBjeWJlci1iYXNlZCBjb3Vyc2VzIHRvIGZpbGwtaW4gZ2FwcyBpbiBteSBrbm93bGVkZ2UgYW5kIGV4cGVyaWVuY2UuIExpdmluZyBpbiBDYW1hcmlsbG8sIHdvcmtpbmcgYXMgYSBmZWRlcmFsIGVtcGxveWVlIGZvciB0aGUgRG9EIGluIEN5YmVyLiBIb2JiaWVzIGluY2x1ZGUgYmlyZGluZywgcGhvdG9ncmFwaHksIEJCUWluZywgQ1RGcywgZnJ1aXQgZ3Jvd2luZyBhbmQgdHJhdmVsLiBJJ20gYSB0ZXJyaWJsZSBwcm9ncmFtbWVyLCBidXQgbG92ZSBhbGwgYXNwZWN0cyBvZiBjeWJlci4gSSdtIGhlcmUgdG8gc2hhcnBlbiBteSBza2lsbHMgYW5kIG9idGFpbiBvZmZlbnNpdmUtcmVsYXRlZCBjZXJ0cyB0byBiZXR0ZXIgbXkgY2FyZWVyLiAgClZlcmlmeSB0aGVuIHRydXN0
